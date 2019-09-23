@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     
     @IBAction func clickButton(_ sender: UIButton) {
         
-        self.goodJob.text == "Wow!" ? (self.goodJob.text = "Good Job!") : (self.goodJob.text = "Wow!");
+        self.goodJob.text == "Wow!" ? (self.goodJob.text = "O daniel cheira mal") : (self.goodJob.text = "Wow!");
         
     }
 }
